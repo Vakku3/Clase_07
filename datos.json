@@ -28,25 +28,25 @@
         "texto": "Capacidad de crear proyectos en el área del entretenimiento, principalmente juegos de mesa y juguetes. Esto desde la concepción de la idea hasta la producción. Me considero capacitado para la identidad visual del producto y que este pueda llegar a ser entretenido para aquellas personas que lo juegan. Estos juegos no se cierran a un grupo etario en particular sino que los hacen para cualquier público."
     },
     {
-        "nombre": "Quinto título",
+        "nombre": "Dibujo de comic",
         "fotos": ["https://picsum.photos/id/42/500/310", "https://picsum.photos/id/42/500/310", "https://picsum.photos/id/42/500/310"],
-        "soporte": "industrial",
+        "soporte": "editorial",
         "abstract": "Donec risus neque, efficitur in sollicitudin vestibulum",
-        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+        "texto": "Empecé a crear la historia de un cómic y está en proceso de ser ilustrada."
     },
     {
-        "nombre": "Sexto título",
+        "nombre": "Fotografía",
         "fotos": ["https://picsum.photos/id/435/500/310", "https://picsum.photos/id/435/500/310", "https://picsum.photos/id/435/500/310"],
-        "soporte": "industrial",
-        "abstract": "Suspendisse dui nulla, facilisis lobortis tortor",
-        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+        "soporte": "Grafico",
+        "abstract": "Fotografía con herramientas básicas y cámaras polaroid.",
+        "texto": "Me especializo en la fotografía de naturaleza y de personas, no me involucro mucho en lo que es la fotografía urbana. Mi fotografía trata de capturar la belleza del mundo y cómo las personas podemos interactuar con ella sin dañarla "
     },
     {
-        "nombre": "Séptimo título",
+        "nombre": "Ilustración digital",
         "fotos": ["https://picsum.photos/id/20/500/310", "https://picsum.photos/id/20/500/310", "https://picsum.photos/id/20/500/310"],
-        "soporte": "digital",
-        "abstract": "Nam nec eros fringilla, ultrices velit in, dapibus",
-        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+        "soporte": "Grafico",
+        "abstract": "Ilustración a partir de Clip Studio Paint, Photoshop, Krita e illustrator",
+        "texto": "Mis trabajos digitales tienen un fuerte enfoque al color y a la fantasía, como gran parte de mis proyectos."
     },
     {
         "nombre": "Octavo título",
