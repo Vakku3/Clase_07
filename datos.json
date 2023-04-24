@@ -1,31 +1,31 @@
 [
     {
-        "nombre": "Primer título",
+        "nombre": "Diseño de Personajes",
         "fotos": ["https://picsum.photos/id/252/500/310", "https://picsum.photos/id/252/500/310", "https://picsum.photos/id/252/500/310"],
-        "soporte": "industrial",
-        "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+        "soporte": "Grafico",
+        "abstract": "Diseño de personajes en géneros de fantasía y ficción",
+        "texto": "Creación de personajes de fantasía, ficción y escenarios cotidianos con un enfoque en el concepto y la personalidad de estos. Esto involucra estructura corporal y facial, pose, personalidad y outfits. "
     },
     {
-        "nombre": "Segundo título",
+        "nombre": "Cortometrajes",
         "fotos": ["https://picsum.photos/id/3/500/310", "https://picsum.photos/id/3/500/310", "https://picsum.photos/id/3/500/310"],
-        "soporte": "digital",
-        "abstract": "Sed feugiat laoreet tellus quis ullamcorper",
-        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+        "soporte": "Audiovisual",
+        "abstract": "Experiencia en la producción de proyectos audiovisuales",
+        "texto": "Producción audiovisual,  desde la inserción del concepto hasta la producción. Experiencia con herramientas como sony vegas premiere y after effects. Esto incluye postproducción, sonido y estructura. "
     },
     {
-        "nombre": "Tercer título",
+        "nombre": "Infografías",
         "fotos": ["https://picsum.photos/id/464/500/310", "https://picsum.photos/id/464/500/310", "https://picsum.photos/id/464/500/310"],
-        "soporte": "editorial",
-        "abstract": "Consectetur adipiscing elit, sed feugiat laoreet tellus",
-        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+        "soporte": "Grafico",
+        "abstract": "Estructura dentro de afiches e enciclopedias",
+        "texto": "A Través del uso de Indesign, photoshop puedo generar afiches o enciclopedias que tengan un buen uso de la jerarquización de la información y que se apoyan de un diseño que ayuda  al entendimiento de la información, sin que se pierda dentro de un exceso de diseño."
     },
     {
-        "nombre": "Cuarto título",
+        "nombre": "Diseño Lúdico",
         "fotos": ["https://picsum.photos/id/39/500/310", "https://picsum.photos/id/39/500/310", "https://picsum.photos/id/39/500/310"],
-        "soporte": "industrial",
-        "abstract": "Nunc efficitur commodo risus, at sagittis dui accumsan",
-        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+        "soporte": "editorial",
+        "abstract": "Diseño de juegos de mesa, juegos para niños y juguetes",
+        "texto": "Capacidad de crear proyectos en el área del entretenimiento, principalmente juegos de mesa y juguetes. Esto desde la concepción de la idea hasta la producción. Me considero capacitado para la identidad visual del producto y que este pueda llegar a ser entretenido para aquellas personas que lo juegan. Estos juegos no se cierran a un grupo etario en particular sino que los hacen para cualquier público."
     },
     {
         "nombre": "Quinto título",
