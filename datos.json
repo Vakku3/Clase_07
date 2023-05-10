@@ -1,14 +1,14 @@
 [
     {
         "nombre": "Diseño de Personajes",
-        "fotos": ["https://picsum.photos/id/252/500/310", "https://picsum.photos/id/252/500/310", "https://picsum.photos/id/252/500/310"],
+        "fotos": ["Character_Page_Fio_01.jpg", "Character_Page_Eclio_01.jpg", "Character_Page_Stella_pg_01.jpg"],
         "soporte": "Grafico",
         "abstract": "Diseño de personajes en géneros de fantasía y ficción",
         "texto": "Creación de personajes de fantasía, ficción y escenarios cotidianos con un enfoque en el concepto y la personalidad de estos. Esto involucra estructura corporal y facial, pose, personalidad y outfits. "
     },
     {
         "nombre": "Cortometrajes",
-        "fotos": ["https://picsum.photos/id/3/500/310", "https://picsum.photos/id/3/500/310", "https://picsum.photos/id/3/500/310"],
+        "fotos": ["https://picsum.photos/id/3/500/310", "https://picsum.photos/id/3/500/310", "no.jpg"],
         "soporte": "Audiovisual",
         "abstract": "Experiencia en la producción de proyectos audiovisuales",
         "texto": "Producción audiovisual,  desde la inserción del concepto hasta la producción. Experiencia con herramientas como sony vegas premiere y after effects. Esto incluye postproducción, sonido y estructura. "
