@@ -1,7 +1,7 @@
 [
     {
         "nombre": "Diseño de Personajes",
-        "fotos": ["Character_Page_Fio_01.jpg", "Character_Page_Eclio_01.jpg", "Character_Page_Stella_pg_01.jpg"],
+        "fotos": ["https://picsum.photos/id/464/500/310", "Character_Page_Eclio_01.jpg", "Character_Page_Stella_pg_01.jpg"],
         "soporte": "Grafico",
         "abstract": "Diseño de personajes en géneros de fantasía y ficción",
         "texto": "Creación de personajes de fantasía, ficción y escenarios cotidianos con un enfoque en el concepto y la personalidad de estos. Esto involucra estructura corporal y facial, pose, personalidad y outfits. "
@@ -36,7 +36,7 @@
     },
     {
         "nombre": "Fotografía",
-        "fotos": ["https://picsum.photos/id/435/500/310", "https://picsum.photos/id/435/500/310", "https://picsum.photos/id/435/500/310"],
+        "fotos": ["https://picsum.photos/id/435/500/310", "20230227_105144.jpg", "20230118_213643.jpg"],
         "soporte": "Grafico",
         "abstract": "Fotografía con herramientas básicas y cámaras polaroid.",
         "texto": "Me especializo en la fotografía de naturaleza y de personas, no me involucro mucho en lo que es la fotografía urbana. Mi fotografía trata de capturar la belleza del mundo y cómo las personas podemos interactuar con ella sin dañarla "
