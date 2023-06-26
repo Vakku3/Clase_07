@@ -1,59 +1,45 @@
 [
     {
         "nombre": "Diseño de Personajes",
-        "fotos": ["https://picsum.photos/id/464/500/310", "Character_Page_Eclio_01.jpg", "Character_Page_Stella_pg_01.jpg"],
-        "soporte": "Grafico",
-        "abstract": "Diseño de personajes en géneros de fantasía y ficción",
-        "texto": "Creación de personajes de fantasía, ficción y escenarios cotidianos con un enfoque en el concepto y la personalidad de estos. Esto involucra estructura corporal y facial, pose, personalidad y outfits. "
+        "fotos": ["Pg_00", "Pg_01", "Pg_02",”Pg_03”],
+        "soporte": "Gráfico",
+        "abstract": "",
+        "texto": "Proyección y realización del proceso que requiere la creación de un personaje memorable y para proyectos de fantasía, ficción y otros escenarios. Esto involucra estructura, morfología y expresiones faciales, posee y outfits. "
     },
     {
-        "nombre": "Cortometrajes",
-        "fotos": ["https://picsum.photos/id/3/500/310", "https://picsum.photos/id/3/500/310", "no.jpg"],
+        "nombre": "Diseño audiovisual",
+        "fotos": ["Pg_04", "Pg_05", "Pg_08",”Pg_07"],
         "soporte": "Audiovisual",
         "abstract": "Experiencia en la producción de proyectos audiovisuales",
         "texto": "Producción audiovisual,  desde la inserción del concepto hasta la producción. Experiencia con herramientas como sony vegas premiere y after effects. Esto incluye postproducción, sonido y estructura. "
     },
     {
         "nombre": "Infografías",
-        "fotos": ["https://picsum.photos/id/464/500/310", "https://picsum.photos/id/464/500/310", "https://picsum.photos/id/464/500/310"],
+        "fotos": ["Pg_08", "Pg_09", "Pg_10",”Pg_11"],
         "soporte": "Grafico",
         "abstract": "Estructura dentro de afiches e enciclopedias",
         "texto": "A Través del uso de Indesign, photoshop puedo generar afiches o enciclopedias que tengan un buen uso de la jerarquización de la información y que se apoyan de un diseño que ayuda  al entendimiento de la información, sin que se pierda dentro de un exceso de diseño."
     },
     {
         "nombre": "Diseño Lúdico",
-        "fotos": ["https://picsum.photos/id/39/500/310", "https://picsum.photos/id/39/500/310", "https://picsum.photos/id/39/500/310"],
+        "fotos": ["Pg_12", "Pg_13", "Pg_14",”Pg_15"],
         "soporte": "editorial",
         "abstract": "Diseño de juegos de mesa, juegos para niños y juguetes",
         "texto": "Capacidad de crear proyectos en el área del entretenimiento, principalmente juegos de mesa y juguetes. Esto desde la concepción de la idea hasta la producción. Me considero capacitado para la identidad visual del producto y que este pueda llegar a ser entretenido para aquellas personas que lo juegan. Estos juegos no se cierran a un grupo etario en particular sino que los hacen para cualquier público."
     },
-    {
-        "nombre": "Dibujo de comic",
-        "fotos": ["https://picsum.photos/id/42/500/310", "https://picsum.photos/id/42/500/310", "https://picsum.photos/id/42/500/310"],
-        "soporte": "editorial",
-        "abstract": "Donec risus neque, efficitur in sollicitudin vestibulum",
-        "texto": "Empecé a crear la historia de un cómic y está en proceso de ser ilustrada."
-    },
-    {
+     {
         "nombre": "Fotografía",
-        "fotos": ["https://picsum.photos/id/435/500/310", "20230227_105144.jpg", "20230118_213643.jpg"],
+        "fotos": ["Pg_16", "Pg_17", "Pg_18",”Pg_19"],
         "soporte": "Grafico",
         "abstract": "Fotografía con herramientas básicas y cámaras polaroid.",
         "texto": "Me especializo en la fotografía de naturaleza y de personas, no me involucro mucho en lo que es la fotografía urbana. Mi fotografía trata de capturar la belleza del mundo y cómo las personas podemos interactuar con ella sin dañarla "
     },
     {
         "nombre": "Ilustración digital",
-        "fotos": ["https://picsum.photos/id/20/500/310", "https://picsum.photos/id/20/500/310", "https://picsum.photos/id/20/500/310"],
+        "fotos": ["Pg_20", "Pg_21", "Pg_22",”Pg_23"],
         "soporte": "Grafico",
         "abstract": "Ilustración a partir de Clip Studio Paint, Photoshop, Krita e illustrator",
         "texto": "Mis trabajos digitales tienen un fuerte enfoque al color y a la fantasía, como gran parte de mis proyectos."
     },
-    {
-        "nombre": "Octavo título",
-        "fotos": ["https://picsum.photos/id/816/500/310", "https://picsum.photos/id/816/500/310", "https://picsum.photos/id/816/500/310"],
-        "soporte": "digital",
-        "abstract": "Donec convallis justo nulla, et ultrices sem fringilla",
-        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
-    }
 
 ]
